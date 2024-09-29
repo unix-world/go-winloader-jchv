@@ -1,7 +1,7 @@
 package winloader
 
 import (
-	"github.com/jchv/go-winloader/internal/loader"
+	"github.com/unix-world/go-winloader-jchv/internal/loader"
 )
 
 // Proc represents a proc of a module.

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/jchv/go-winloader/internal/loader"
+	"github.com/unix-world/go-winloader-jchv/internal/loader"
 )
 
 // LinkModule links a PE module in-memory.

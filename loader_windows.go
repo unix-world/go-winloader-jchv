@@ -1,8 +1,8 @@
 package winloader
 
 import (
-	"github.com/jchv/go-winloader/internal/memloader"
-	"github.com/jchv/go-winloader/internal/winloader"
+	"github.com/unix-world/go-winloader-jchv/internal/memloader"
+	"github.com/unix-world/go-winloader-jchv/internal/winloader"
 )
 
 var native = winloader.Loader{}

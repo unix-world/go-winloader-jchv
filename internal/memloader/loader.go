@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/jchv/go-winloader/internal/loader"
-	"github.com/jchv/go-winloader/internal/pe"
-	"github.com/jchv/go-winloader/internal/vmem"
-	"github.com/jchv/go-winloader/internal/winloader"
+	"github.com/unix-world/go-winloader-jchv/internal/loader"
+	"github.com/unix-world/go-winloader-jchv/internal/pe"
+	"github.com/unix-world/go-winloader-jchv/internal/vmem"
+	"github.com/unix-world/go-winloader-jchv/internal/winloader"
 )
 
 // module implements a module for the memory loader.

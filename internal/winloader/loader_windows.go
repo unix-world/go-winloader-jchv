@@ -3,7 +3,7 @@ package winloader
 import (
 	"syscall"
 
-	"github.com/jchv/go-winloader/internal/loader"
+	"github.com/unix-world/go-winloader-jchv/internal/loader"
 	"golang.org/x/sys/windows"
 )
 
